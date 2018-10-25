@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/unchartedsky/kubewire.svg)](https://microbadger.com/images/unchartedsky/kubewire "Get your own image badge on microbadger.com")
+
 # [WIP] Kubewire
 
 Self hosted and scalable VPN for Kubernetes based on [WireGuard](https://www.wireguard.com).
